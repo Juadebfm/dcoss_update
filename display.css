@@ -1,0 +1,301 @@
+.Brand .container {
+    height: 100vh;
+    background: url(/assets/a\ \(2\).jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.Brand .container2 {
+    margin-top: 8rem;
+}
+
+.Branding {
+    width: 98%;
+    margin-top: 4rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .Branding h1 {
+    font-size: 3.5rem;
+    color: #ccc;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  .Branding h2 {
+    font-size: 2.5rem;
+    color: #ccc;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .container .Branding .Branding-content {
+    display: block;
+    padding: 12rem;
+    margin-top: 3rem;
+  }
+
+  .container .Branding .Branding-content h4 {
+    width: 60%; 
+    font-size: 5rem;}
+
+  .container .Branding .Branding-content-2 {
+        display: block;
+        font-size: 1.6rem;
+        color: #ccc;
+        padding-left: 12rem;
+    }
+
+  .container .Branding .Branding-content-2 h4 {
+        font-size: 2rem;
+  }
+
+  .container .Branding .Branding-content-2 ul {
+    list-style: none;
+    line-height: 2rem;
+  }
+
+  .container .Branding .Branding-content-2 ul li {
+    padding-top: 1rem;
+  }
+  .container .Branding .Branding-content-2 ul li:hover {
+    color: #daa520;
+    cursor: pointer;
+  }
+
+  
+  
+  .container .Branding .Branding-content-2 .list {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .container .Branding .Branding-content-2 .list p {
+    padding-right: 12rem;
+  }
+
+  .container .Branding .Branding-content-2 .list p i {
+    display: block;
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 4rem;
+    animation: bounce2 2s ease infinite;
+  }
+
+  @keyframes bounce2 {
+      0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+      40% {transform: translateY(-30px);}
+      60% {transform: translateY(-15px);}
+  }
+  
+  
+  .Branding .Branding-content {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 3rem;
+    margin-bottom: 3rem;
+    padding-right: 12rem;
+    padding-left: 12rem;
+  }
+  
+  .Branding .Branding-content h3 {
+    width: auto;
+    font-size: 1.8rem;
+    color: #daa520;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+    margin-right: 4rem;
+  }
+  .Branding .Branding-content h4 {
+    width: 40%;
+    font-size: 2.25rem;
+    color: #ccc;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+  .Branding .Branding-content p {
+    font-size: 1.8rem;
+    width: 55%;
+    line-height: 1.8;
+    color: #ccc;
+    margin-bottom: 2rem;
+  }
+
+  .Branding-content ul {
+    color: #ccc;
+    font-weight: bold;
+    list-style: none;
+    width: 40%;
+    font-size: 1.8rem;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+
+  .container2 .Branding .Branding-content .logo-d {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40rem;
+  }
+
+  .container2 .Branding .Branding-content .logo-e {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 5rem;
+  }
+
+  .container2 .Branding .Branding-content .logo-e .box {
+    background-color: #13131a;
+    filter: drop-shadow(0 -.1mm 1.2mm #13131a);    height: 100px;
+    width: 250px;
+    margin-right: 3rem;
+    text-align: center;
+  }
+
+  .container2 .Branding .Branding-content .logo-e .box:nth-child(2) {
+    background-color: #daa520;
+  }
+
+  .container2 .Branding .Branding-content .logo-e .box:nth-child(2) p {
+    color: #010103;
+    font-weight: bold;
+  }
+
+  .container2 .Branding .Branding-content .logo-e .box:nth-child(3) {
+    background-color: #0060d1;
+  }
+
+  .container2 .Branding .Branding-content .logo-e .box:nth-child(4) {
+    background-color: #17d9f3;
+  }
+
+  .container2 .Branding .Branding-content .logo-e .box:nth-child(2) p {
+    color: #010103;
+    font-weight: bold;
+  }
+  .container2 .Branding .Branding-content .logo-e .box:nth-child(3) p {
+    color: #ccc;
+    font-weight: bold;
+  }
+  .container2 .Branding .Branding-content .logo-e .box:nth-child(4) p {
+    color: #010103;
+    font-weight: bold;
+  }
+
+  .container2 .Branding .Branding-content .logo-e .box p {
+    text-align: center;
+    margin: auto;
+    padding: 3rem;
+    font-weight: bold;
+  }
+
+  .container2 .Branding .Branding-content h4 {
+    font-size: 1.8rem;
+    line-height: 1.5;
+  }
+
+
+  .container2 .Branding .Branding-content .logo-f {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+  }
+  .container2 .Branding .Branding-content .logo-f img {
+    height: 340px;
+    width: 450px;
+    filter: grayscale(100%);
+    transition: .3s ease;
+  }
+
+  .container2 .Branding .Branding-content .logo-f img:hover {
+    filter: grayscale(0);
+    cursor: pointer;
+  }
+
+  @media (max-width: 800px) {
+    .container .Branding .Branding-content { 
+        padding: 2rem;
+        margin-top: 10rem;
+    }
+
+    .container .Branding .Branding-content h4 {
+        width: 100%;
+    }
+
+    .container .Branding .Branding-content-2 h4 {
+        color: #daa520;
+    }
+
+    .container .Branding .Branding-content-2 {
+        padding-left: 2rem;
+        font-weight: bold;
+        font-size: large;
+    }
+
+    .container .Branding .Branding-content-2 .list p {
+        padding-right: 2rem;
+      }
+
+      .container2 .Branding .Branding-content {
+        display: block;
+        padding: 2rem;
+      }
+
+      .container2 .Branding .Branding-content h4 {
+        width: 100%;
+      }
+
+      .container2 .Branding .Branding-content p {
+        width: 100%;
+      }
+
+      .container2 .Branding .Branding-content ul {
+        display: flex;
+        gap: 10px;
+      }
+
+      .container2 .Branding .Branding-content ul li {
+        background: #13131a;
+        padding: 5px;
+      }
+
+      .container2 .Branding .Branding-content .logo-d {
+        display: block;
+      }
+
+      .container2 .Branding .Branding-content .logo-d img {
+        width: 300px;
+        height: auto;
+        margin: auto;
+      }
+
+      .container2 .Branding .Branding-content .logo-e {
+        display: block;
+      }
+
+      .container2 .Branding .Branding-content .logo-e .box {
+        margin: auto;
+      }
+
+      .container2 .Branding .Branding-content .logo-f {
+        display: block;
+      }
+
+      .container2 .Branding .Branding-content .logo-f img {
+        width: 350px;
+        margin-bottom: 2rem;
+        height: auto;
+      }
+
+    }
